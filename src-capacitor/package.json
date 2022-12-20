@@ -1,0 +1,12 @@
+{
+  "name": "ntc",
+  "version": "0.0.1",
+  "description": "A Quasar Project",
+  "author": "abdel_san",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^2.5.0",
+    "@capacitor/cli": "^2.0.0",
+    "@capacitor/core": "^2.0.0"
+  }
+}
